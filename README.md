@@ -15,16 +15,17 @@ The analysis was performed using Python, and insights were visualized using Powe
 
 
 📈 Key Insights
-- Analyzed shipment data to understand overall delivery performance
-- Observed trends across different regions and shipment volumes
-- Identified patterns affecting logistics efficiency
+- Analyzed early, on-time, and delayed shipments across different plants
+- Identified plant-wise performance variations in delivery efficiency
+- Observed shipment trends at product level using time-based metrics
+- Highlighted delays and early deliveries to understand logistics performance
 
 
 📊 Analysis & Visualization
 - Performed data cleaning and preprocessing using Python
-- Conducted exploratory data analysis (EDA)
+- Conducted exploratory data analysis (EDA) on shipment and delivery data
 - Created visualizations using Matplotlib and Seaborn
-- Built an interactive dashboard in Power BI
+- Built an interactive Power BI dashboard to track plant performance, shipment status, and delivery   metrics
 
 
 📂 Project Files
