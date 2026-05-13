@@ -41,3 +41,5 @@ This project helps companies:
 
 📸 Dashboard Preview
 
+![Dashboard](Dashboard.png)
+
