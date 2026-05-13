@@ -38,3 +38,5 @@ This project helps companies:
 - Improve logistics efficiency
 - Make data-driven decisions
 
+
+📸 Dashboard Preview
